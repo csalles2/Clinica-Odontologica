@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Clinica de Odontologia
 
-TODO: Document your project here
+Seus dentes brancos, saúdaveis e firmes. 
